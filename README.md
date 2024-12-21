@@ -39,4 +39,4 @@ A Python-based web scraping tool designed to extract detailed product informatio
 ### Clone the repository:
 
 bash
-git clone https://github.com/your-username/amazon-bestsellers-scraper.git
+git clone https://github.com/jdesai05/amazon-bestsellers-scraper.git

@@ -33,10 +33,3 @@ A Python-based web scraping tool designed to extract detailed product informatio
 ├── amazon_scraper.py        # Main script
 ├── output.json              # Python output files
 ├── README.md                # Project documentation
-
-## 🛠️ Installation
-
-### Clone the repository:
-
-bash
-git clone https://github.com/jdesai05/amazon-bestsellers-scraper.git
